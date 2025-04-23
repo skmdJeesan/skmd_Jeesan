@@ -1,0 +1,1 @@
+"Optimized client for drone simulator WebSocket server with advanced flig
